@@ -334,16 +334,4 @@ Click the "Get Smart Tip" button.
 
 The application will send your request to the backend server, which will query the AI and display a tip in the text area below.
 
-Contributing
-Feel free to fork this project and add new features. Some ideas for expansion include:
 
-Saving a history of tips.
-
-Adding user authentication.
-
-Integrating with a database to store user tips.
-
-Providing tips on a wider range of topics.
-
-License
-This project is open-source and available under the MIT License.
